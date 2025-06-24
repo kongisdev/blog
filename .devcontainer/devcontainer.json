@@ -19,10 +19,10 @@
     }
   },
   "portsAttributes": {
-    "3000": {
+    "9000": {
       "label": "Nextjs server",
       "onAutoForward": "openPreview"
     }
   },
-  "forwardPorts": [3000]
+  "forwardPorts": [9000]
 }
